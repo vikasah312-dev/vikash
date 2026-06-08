@@ -1,0 +1,10 @@
+{
+    "name": "vikash-portfolio",
+    "version": "1.0.0",
+    "private": true,
+    "type": "commonjs",
+    "scripts": {
+        "dev": "npx --yes serve -s . -l 5173",
+        "start": "npm run dev"
+    }
+}
